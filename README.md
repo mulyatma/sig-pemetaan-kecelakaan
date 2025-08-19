@@ -15,9 +15,8 @@ The project is built with:
 - 📊 Accident data clustering with **K-Means**  
 - 🗺️ Interactive map visualization with **Leaflet**  
 - 📑 Accident Data CRUD (create, read, update, delete, view details)  
-- 📈 Cluster analysis displayed on maps and tables  
-- 👤 User management (admin, user)  
-
+- 📈 Cluster analysis displayed on maps and tables
+  
 ---
 
 ## 📊 K-Means Method
